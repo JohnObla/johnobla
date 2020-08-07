@@ -9,8 +9,8 @@ Please feel free to browse through my repos 😀
 
 - [RSpec - 2 💎🚆: Ruby on Rails API that uses RSpec to test its HTTP responses](https://github.com/johnobla/tdd2)
 
+- [NodeJs + Express 🏃‍♂️: Web App that manages a physical book library](https://github.com/johnobla/express-locallibrary-tutorial)
+
 - [Java + Kafka ☕✉: Java program using kafka to programmatically managage Kafka's resources](https://github.com/johnobla/kafka) 👈 Also shows my process for learning new tools/languages.
 
 - [Hadoop 🐘: Codeless repo that showcases my process for learning Hadoop](https://github.com/johnobla/hadoop)
-
-- [NodeJs + Express 🏃‍♂️: Web App that manages a physical book library](https://github.com/johnobla/express-locallibrary-tutorial)
