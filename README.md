@@ -1,6 +1,5 @@
 ### Welcome to my GitHub 👋
-Please feel free to browse through my repos!<br>
-Below is a curated list 😀
+Please feel free to browse through my repos 😀
 
 - [Python + Django 🐍🚀: Web App for creating and managing polls](https://github.com/johnobla/polls-project)
 
