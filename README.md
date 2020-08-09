@@ -5,7 +5,7 @@ Please feel free to browse through my repos 😀
 
 - [Python + Django 🐍🚀: Blog Web App with CRUD operations](https://github.com/johnobla/blog)
 
-- [Python + Django 🐍🚀: Newspaper Web App with with Custom User Models, User Authentication, and Bootstrap with Crispy Forms](https://github.com/johnobla/newspaper) 
+- [Python + Django 🐍🚀: Newspaper Web App with with Custom User Models, and Bootstrap with Crispy Forms](https://github.com/johnobla/newspaper) 
 
 
 - [Ruby on Rails 💎🚆: Web app for accessing real time stock data](https://github.com/johnobla/stocking) 👈 Also shows my process for learning new tools/languages.
