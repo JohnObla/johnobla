@@ -1,5 +1,6 @@
 ### Welcome to my GitHub 👋
-Please feel free to browse through my repos 😀
+Please feel free to browse through my repos 😀<br>
+(⭐) = the repo shows my process for learning and debugging new tools/languages.
 
 - [Python + Django 🐍🚀: Newspaper Web App with Custom User Models, and Bootstrap with Crispy Forms](https://github.com/johnobla/newspaper) 
 
@@ -7,7 +8,7 @@ Please feel free to browse through my repos 😀
 
 - [Python + Django 🐍🚀: Blog Web App with CRUD operations](https://github.com/johnobla/blog)
 
-- [Ruby on Rails 💎🚆: Web app for accessing real time stock data](https://github.com/johnobla/stocking) 👈 Also shows my process for learning new tools/languages.
+- [⭐ Ruby on Rails 💎🚆: Web app for accessing real time stock data](https://github.com/johnobla/stocking) 👈 Also shows my process for learning new tools/languages.
 
 - [RSpec - 1 💎: Ruby class featuring Test Driven Development with RSpec](https://github.com/johnobla/tdd)
 
@@ -15,6 +16,6 @@ Please feel free to browse through my repos 😀
 
 - [NodeJS + Express 🏃‍♂️: Web App that manages a physical book library](https://github.com/johnobla/express-locallibrary-tutorial)
 
-- [Java + Kafka ☕✉: Java program using kafka to programmatically managage Kafka's resources](https://github.com/johnobla/kafka) 👈 Also shows my process for learning new tools/languages.
+- [⭐ Java + Kafka ☕✉: Java program using kafka to programmatically managage Kafka's resources](https://github.com/johnobla/kafka) 👈 Also shows my process for learning new tools/languages.
 
-- [Hadoop 🐘: Codeless repo that showcases my process for learning Hadoop](https://github.com/johnobla/hadoop)
+- [⭐ Hadoop 🐘: Codeless repo that showcases my process for learning Hadoop](https://github.com/johnobla/hadoop)
