@@ -1,6 +1,5 @@
 ### Welcome to my GitHub 👋
-Please feel free to browse through my repos 😀<br>
-(⭐) = the repo shows my process for learning and debugging new tools/languages.
+⭐ = the repo shows my process for learning and debugging new tools/languages.
 
 - [Python + Django 🐍🚀: Newspaper Web App with Custom User Models, and Bootstrap with Crispy Forms](https://github.com/johnobla/newspaper) 
 
