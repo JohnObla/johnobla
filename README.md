@@ -1,7 +1,7 @@
 ### Welcome to my GitHub 👋
 ⭐ = the repo shows my process for learning and debugging new tools/languages.
 
-- [Python + Django 🐍🚀: Online Food Delivery App with Docker Containerisation](https://github.com/johnobla/johns-eat) 
+- [Python + Django 🐍🚀🐳: Online Food Delivery App with Docker Containerisation](https://github.com/johnobla/johns-eat) 
 
     - [Live Site - http://johns-eat.herokuapp.com/](http://johns-eat.herokuapp.com/)
 
