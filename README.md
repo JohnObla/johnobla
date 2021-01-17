@@ -2,17 +2,45 @@
 
 ## Fullstack Javascript
 
-- Codewars ⚔: [https://www.codewars.com/users/johnobla](https://www.codewars.com/users/johnobla)
+### React
 
 - (Work in Progress) NextJS, React, Stripe ⚛💳: [Fictional tree-planting website with Stripe payments](https://github.com/johnobla/plant-trees)
 
   - 🚀 Live Site: [https://plant-trees.vercel.app/](https://plant-trees.vercel.app/)
 
+- React Hooks, Spring ⚛: [CRUD to-do app, revamped to use hooks, local storage, and Spring for component transitions](https://github.com/johnobla/react-30-todo-hooks)
+
+  - 🚀 Live Site: [https://johnobla.github.io/react-30-todo-hooks/](https://johnobla.github.io/react-30-todo-hooks/)
+
+- React ⚛: [Original CRUD to-do app, before revamp](https://github.com/johnobla/react-19-todo-app)
+
+  - 🚀 Live Site: UPCOMING...
+
+### Node, Express, Mongo
+
+- Node, Express, Mongo, Heroku 👨‍💻: [CRUD fullstack camp website with authentication middleware](https://github.com/johnobla/YelpCamp)
+
+  - 🚀 Live Site: [https://obscure-caverns-74286.herokuapp.com/](https://obscure-caverns-74286.herokuapp.com/)
+
+### JavaScript, HTML, CSS
+
+- JavaScript, HTML, CSS 👨‍💻: [FAQ Accordian card, styled as per a design doc](https://github.com/johnobla/faq-accordion-card-main)
+
+  - 🚀 Live Site: [https://github.com/johnobla/faq-accordion-card-main](https://github.com/johnobla/faq-accordion-card-main)
+
+- HTML, CSS 👨‍💻: [Profile card component, styled as per a design doc](https://github.com/johnobla/profile-card-component)
+
+  - 🚀 Live Site: [https://johnobla.github.io/profile-card-component/](https://johnobla.github.io/profile-card-component/)
+
+### Codewars
+
+- Codewars ⚔: [https://www.codewars.com/users/johnobla](https://www.codewars.com/users/johnobla)
+
 <hr>
 
 ## Python + Django
 
-- Python + Django 🐍🐳: [Online Food Delivery App with Docker Containerisation](https://github.com/johnobla/johns-eat)
+- Python, Django, Postgres 🐍🐳🐘: [Online Food Delivery App with Postgres database, and Docker Containerisation](https://github.com/johnobla/johns-eat)
 
   - 🚀 Live Site: [http://johns-eat.herokuapp.com/](http://johns-eat.herokuapp.com/)
 
