@@ -1,8 +1,8 @@
 # Welcome to my GitHub 👋
 
-## Fullstack Javascript
+## Fullstack Javascript:
 
-### React
+### React:
 
 - (Work in Progress) NextJS, React Hooks, Stripe ⚛💳: [Fictional tree-planting website with Stripe payments](https://github.com/johnobla/plant-trees)
 
@@ -24,13 +24,13 @@
 
   - 🚀 Live Site: [https://react-19-todo-app.vercel.app/](https://react-19-todo-app.vercel.app/)
 
-### Node, Express, Mongo
+### Node, Express, Mongo:
 
 - Node, Express, Mongo, Heroku 👨‍💻: [Fullstack CRUD camp website with authentication middleware](https://github.com/johnobla/YelpCamp)
 
   - 🚀 Live Site: [https://obscure-caverns-74286.herokuapp.com/](https://obscure-caverns-74286.herokuapp.com/)
 
-### JavaScript, HTML, CSS
+### JavaScript, HTML, CSS:
 
 - JavaScript, HTML, CSS 👨‍💻: [FAQ Accordian card, styled as per a design doc](https://github.com/johnobla/faq-accordion-card-main)
 
@@ -40,13 +40,13 @@
 
   - 🚀 Live Site: [https://johnobla.github.io/profile-card-component/](https://johnobla.github.io/profile-card-component/)
 
-### Codewars
+### Codewars:
 
 - Codewars ⚔: [https://www.codewars.com/users/johnobla](https://www.codewars.com/users/johnobla)
 
 <hr>
 
-## Python, Django, Postgres
+## Python, Django, Postgres:
 
 - Python, Django, Postgres 🐍🐳🐘: [Online Food Delivery App with Postgres database, and Docker Containerisation](https://github.com/johnobla/johns-eat)
 
@@ -60,7 +60,7 @@
 
 <hr>
 
-## Ruby on Rails
+## Ruby on Rails:
 
 - Ruby on Rails 💎🚆: [Web app for accessing real time stock data](https://github.com/johnobla/stocking)
 
@@ -72,7 +72,7 @@
 
 <hr>
 
-## Java, Kafka, Hadoop
+## Java, Kafka, Hadoop:
 
 - Java + Kafka ☕✉: [Java program using kafka to programmatically managage Kafka's resources](https://github.com/johnobla/kafka)
 
