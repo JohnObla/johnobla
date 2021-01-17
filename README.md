@@ -4,7 +4,7 @@
 
 ### React
 
-- (Work in Progress) NextJS, React, Stripe ⚛💳: [Fictional tree-planting website with Stripe payments](https://github.com/johnobla/plant-trees)
+- (Work in Progress) NextJS, React Hooks, Stripe ⚛💳: [Fictional tree-planting website with Stripe payments](https://github.com/johnobla/plant-trees)
 
   - 🚀 Live Site: [https://plant-trees.vercel.app/](https://plant-trees.vercel.app/)
 
@@ -12,13 +12,21 @@
 
   - 🚀 Live Site: [https://johnobla.github.io/react-30-todo-hooks/](https://johnobla.github.io/react-30-todo-hooks/)
 
+- React ⚛: [Single page Lights Out game](https://github.com/johnobla/react-15-lights-out)
+
+  - 🚀 Live Site: [https://react-15-lights-out.vercel.app/](https://react-15-lights-out.vercel.app/)
+
+- React, DocGen, Chokidar ⚛: [Custom Component Library with automatic doc generation from prop types (no styling)](https://github.com/johnobla/ps-react-johnobla)
+
+  - 🚀 Live Site: [https://johnobla.github.io/ps-react-johnobla/](https://johnobla.github.io/ps-react-johnobla/)
+
 - React ⚛: [Original CRUD to-do app, before revamp](https://github.com/johnobla/react-19-todo-app)
 
-  - 🚀 Live Site: UPCOMING...
+  - 🚀 Live Site: [https://react-19-todo-app.vercel.app/](https://react-19-todo-app.vercel.app/)
 
 ### Node, Express, Mongo
 
-- Node, Express, Mongo, Heroku 👨‍💻: [CRUD fullstack camp website with authentication middleware](https://github.com/johnobla/YelpCamp)
+- Node, Express, Mongo, Heroku 👨‍💻: [Fullstack CRUD camp website with authentication middleware](https://github.com/johnobla/YelpCamp)
 
   - 🚀 Live Site: [https://obscure-caverns-74286.herokuapp.com/](https://obscure-caverns-74286.herokuapp.com/)
 
@@ -38,7 +46,7 @@
 
 <hr>
 
-## Python + Django
+## Python, Django, Postgres
 
 - Python, Django, Postgres 🐍🐳🐘: [Online Food Delivery App with Postgres database, and Docker Containerisation](https://github.com/johnobla/johns-eat)
 
@@ -64,7 +72,7 @@
 
 <hr>
 
-## Java, Kafka, and Hadoop
+## Java, Kafka, Hadoop
 
 - Java + Kafka ☕✉: [Java program using kafka to programmatically managage Kafka's resources](https://github.com/johnobla/kafka)
 
