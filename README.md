@@ -4,6 +4,8 @@
 
 ### React:
 
+- (Work in Progress) TypeScript, Apollo GraphQL, Postgres, React ⚛: [Full stack reddit look-alike](https://github.com/johnobla/jeddit)
+
 - (Work in Progress) NextJS, React Hooks, Stripe ⚛💳: [Fictional tree-planting website with Stripe payments](https://github.com/johnobla/plant-trees)
 
   - 🚀 Live Site: [https://plant-trees.vercel.app/](https://plant-trees.vercel.app/)
